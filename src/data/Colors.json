@@ -1,0 +1,742 @@
+[
+    {
+        "color": "aliceblue",
+        "rgb": "#F0F8FF",
+        "type": "css"
+    },
+    {
+        "color": "antiquewhite",
+        "rgb": "#FAEBD7",
+        "type": "css"
+    },
+    {
+        "color": "aqua",
+        "rgb": "#00FFFF",
+        "type": "css"
+    },
+    {
+        "color": "aquamarine",
+        "rgb": "#7FFFD4",
+        "type": "css"
+    },
+    {
+        "color": "azure",
+        "rgb": "#F0FFFF",
+        "type": "css"
+    },
+    {
+        "color": "beige",
+        "rgb": "#F5F5DC",
+        "type": "css"
+    },
+    {
+        "color": "bisque",
+        "rgb": "#FFE4C4",
+        "type": "css"
+    },
+    {
+        "color": "black",
+        "rgb": "#000000",
+        "type": "css"
+    },
+    {
+        "color": "blanchedalmond",
+        "rgb": "#FFEBCD",
+        "type": "css"
+    },
+    {
+        "color": "blue",
+        "rgb": "#0000FF",
+        "type": "css"
+    },
+    {
+        "color": "blueviolet",
+        "rgb": "#8A2BE2",
+        "type": "css"
+    },
+    {
+        "color": "brown",
+        "rgb": "#A52A2A",
+        "type": "css"
+    },
+    {
+        "color": "burlywood",
+        "rgb": "#DEB887",
+        "type": "css"
+    },
+    {
+        "color": "cadetblue",
+        "rgb": "#5F9EA0",
+        "type": "css"
+    },
+    {
+        "color": "chartreuse",
+        "rgb": "#7FFF00",
+        "type": "css"
+    },
+    {
+        "color": "chocolate",
+        "rgb": "#D2691E",
+        "type": "css"
+    },
+    {
+        "color": "coral",
+        "rgb": "#FF7F50",
+        "type": "css"
+    },
+    {
+        "color": "cornflowerblue",
+        "rgb": "#6495ED",
+        "type": "css"
+    },
+    {
+        "color": "cornsilk",
+        "rgb": "#FFF8DC",
+        "type": "css"
+    },
+    {
+        "color": "crimson",
+        "rgb": "#DC143C",
+        "type": "css"
+    },
+    {
+        "color": "cyan",
+        "rgb": "#00FFFF",
+        "type": "css"
+    },
+    {
+        "color": "darkblue",
+        "rgb": "#00008B",
+        "type": "css"
+    },
+    {
+        "color": "darkcyan",
+        "rgb": "#008B8B",
+        "type": "css"
+    },
+    {
+        "color": "darkgoldenrod",
+        "rgb": "#B8860B",
+        "type": "css"
+    },
+    {
+        "color": "darkgray",
+        "rgb": "#A9A9A9",
+        "type": "css"
+    },
+    {
+        "color": "darkgrey",
+        "rgb": "#A9A9A9",
+        "type": "css"
+    },
+    {
+        "color": "darkgreen",
+        "rgb": "#006400",
+        "type": "css"
+    },
+    {
+        "color": "darkkhaki",
+        "rgb": "#BDB76B",
+        "type": "css"
+    },
+    {
+        "color": "darkmagenta",
+        "rgb": "#8B008B",
+        "type": "css"
+    },
+    {
+        "color": "darkolivegreen",
+        "rgb": "#556B2F",
+        "type": "css"
+    },
+    {
+        "color": "darkorange",
+        "rgb": "#FF8C00",
+        "type": "css"
+    },
+    {
+        "color": "darkorchid",
+        "rgb": "#9932CC",
+        "type": "css"
+    },
+    {
+        "color": "darkred",
+        "rgb": "#8B0000",
+        "type": "css"
+    },
+    {
+        "color": "darksalmon",
+        "rgb": "#E9967A",
+        "type": "css"
+    },
+    {
+        "color": "darkseagreen",
+        "rgb": "#8FBC8F",
+        "type": "css"
+    },
+    {
+        "color": "darkslateblue",
+        "rgb": "#483D8B",
+        "type": "css"
+    },
+    {
+        "color": "darkslategray",
+        "rgb": "#2F4F4F",
+        "type": "css"
+    },
+    {
+        "color": "darkslategrey",
+        "rgb": "#2F4F4F",
+        "type": "css"
+    },
+    {
+        "color": "darkturquoise",
+        "rgb": "#00CED1",
+        "type": "css"
+    },
+    {
+        "color": "darkviolet",
+        "rgb": "#9400D3",
+        "type": "css"
+    },
+    {
+        "color": "deeppink",
+        "rgb": "#FF1493",
+        "type": "css"
+    },
+    {
+        "color": "deepskyblue",
+        "rgb": "#00BFFF",
+        "type": "css"
+    },
+    {
+        "color": "dimgray",
+        "rgb": "#696969",
+        "type": "css"
+    },
+    {
+        "color": "dimgrey",
+        "rgb": "#696969",
+        "type": "css"
+    },
+    {
+        "color": "dodgerblue",
+        "rgb": "#1E90FF",
+        "type": "css"
+    },
+    {
+        "color": "firebrick",
+        "rgb": "#B22222",
+        "type": "css"
+    },
+    {
+        "color": "floralwhite",
+        "rgb": "#FFFAF0",
+        "type": "css"
+    },
+    {
+        "color": "forestgreen",
+        "rgb": "#228B22",
+        "type": "css"
+    },
+    {
+        "color": "fuchsia",
+        "rgb": "#FF00FF",
+        "type": "css"
+    },
+    {
+        "color": "gainsboro",
+        "rgb": "#DCDCDC",
+        "type": "css"
+    },
+    {
+        "color": "ghostwhite",
+        "rgb": "#F8F8FF",
+        "type": "css"
+    },
+    {
+        "color": "gold",
+        "rgb": "#FFD700",
+        "type": "css"
+    },
+    {
+        "color": "goldenrod",
+        "rgb": "#DAA520",
+        "type": "css"
+    },
+    {
+        "color": "gray",
+        "rgb": "#808080",
+        "type": "css"
+    },
+    {
+        "color": "grey",
+        "rgb": "#808080",
+        "type": "css"
+    },
+    {
+        "color": "green",
+        "rgb": "#008000",
+        "type": "css"
+    },
+    {
+        "color": "greenyellow",
+        "rgb": "#ADFF2F",
+        "type": "css"
+    },
+    {
+        "color": "honeydew",
+        "rgb": "#F0FFF0",
+        "type": "css"
+    },
+    {
+        "color": "hotpink",
+        "rgb": "#FF69B4",
+        "type": "css"
+    },
+    {
+        "color": "indianred",
+        "rgb": "#CD5C5C",
+        "type": "css"
+    },
+    {
+        "color": "indigo",
+        "rgb": "#4B0082",
+        "type": "css"
+    },
+    {
+        "color": "ivory",
+        "rgb": "#FFFFF0",
+        "type": "css"
+    },
+    {
+        "color": "khaki",
+        "rgb": "#F0E68C",
+        "type": "css"
+    },
+    {
+        "color": "lavender",
+        "rgb": "#E6E6FA",
+        "type": "css"
+    },
+    {
+        "color": "lavenderblush",
+        "rgb": "#FFF0F5",
+        "type": "css"
+    },
+    {
+        "color": "lawngreen",
+        "rgb": "#7CFC00",
+        "type": "css"
+    },
+    {
+        "color": "lemonchiffon",
+        "rgb": "#FFFACD",
+        "type": "css"
+    },
+    {
+        "color": "lightblue",
+        "rgb": "#ADD8E6",
+        "type": "css"
+    },
+    {
+        "color": "lightcoral",
+        "rgb": "#F08080",
+        "type": "css"
+    },
+    {
+        "color": "lightcyan",
+        "rgb": "#E0FFFF",
+        "type": "css"
+    },
+    {
+        "color": "lightgoldenrodyellow",
+        "rgb": "#FAFAD2",
+        "type": "css"
+    },
+    {
+        "color": "lightgray",
+        "rgb": "#D3D3D3",
+        "type": "css"
+    },
+    {
+        "color": "lightgrey",
+        "rgb": "#D3D3D3",
+        "type": "css"
+    },
+    {
+        "color": "lightgreen",
+        "rgb": "#90EE90",
+        "type": "css"
+    },
+    {
+        "color": "lightpink",
+        "rgb": "#FFB6C1",
+        "type": "css"
+    },
+    {
+        "color": "lightsalmon",
+        "rgb": "#FFA07A",
+        "type": "css"
+    },
+    {
+        "color": "lightseagreen",
+        "rgb": "#20B2AA",
+        "type": "css"
+    },
+    {
+        "color": "lightskyblue",
+        "rgb": "#87CEFA",
+        "type": "css"
+    },
+    {
+        "color": "lightslategray",
+        "rgb": "#778899",
+        "type": "css"
+    },
+    {
+        "color": "lightslategrey",
+        "rgb": "#778899",
+        "type": "css"
+    },
+    {
+        "color": "lightsteelblue",
+        "rgb": "#B0C4DE",
+        "type": "css"
+    },
+    {
+        "color": "lightyellow",
+        "rgb": "#FFFFE0",
+        "type": "css"
+    },
+    {
+        "color": "lime",
+        "rgb": "#00FF00",
+        "type": "css"
+    },
+    {
+        "color": "limegreen",
+        "rgb": "#32CD32",
+        "type": "css"
+    },
+    {
+        "color": "linen",
+        "rgb": "#FAF0E6",
+        "type": "css"
+    },
+    {
+        "color": "magenta",
+        "rgb": "#FF00FF",
+        "type": "css"
+    },
+    {
+        "color": "maroon",
+        "rgb": "#800000",
+        "type": "css"
+    },
+    {
+        "color": "mediumaquamarine",
+        "rgb": "#66CDAA",
+        "type": "css"
+    },
+    {
+        "color": "mediumblue",
+        "rgb": "#0000CD",
+        "type": "css"
+    },
+    {
+        "color": "mediumorchid",
+        "rgb": "#BA55D3",
+        "type": "css"
+    },
+    {
+        "color": "mediumpurple",
+        "rgb": "#9370DB",
+        "type": "css"
+    },
+    {
+        "color": "mediumseagreen",
+        "rgb": "#3CB371",
+        "type": "css"
+    },
+    {
+        "color": "mediumslateblue",
+        "rgb": "#7B68EE",
+        "type": "css"
+    },
+    {
+        "color": "mediumspringgreen",
+        "rgb": "#00FA9A",
+        "type": "css"
+    },
+    {
+        "color": "mediumturquoise",
+        "rgb": "#48D1CC",
+        "type": "css"
+    },
+    {
+        "color": "mediumvioletred",
+        "rgb": "#C71585",
+        "type": "css"
+    },
+    {
+        "color": "midnightblue",
+        "rgb": "#191970",
+        "type": "css"
+    },
+    {
+        "color": "mintcream",
+        "rgb": "#F5FFFA",
+        "type": "css"
+    },
+    {
+        "color": "mistyrose",
+        "rgb": "#FFE4E1",
+        "type": "css"
+    },
+    {
+        "color": "moccasin",
+        "rgb": "#FFE4B5",
+        "type": "css"
+    },
+    {
+        "color": "navajowhite",
+        "rgb": "#FFDEAD",
+        "type": "css"
+    },
+    {
+        "color": "navy",
+        "rgb": "#000080",
+        "type": "css"
+    },
+    {
+        "color": "oldlace",
+        "rgb": "#FDF5E6",
+        "type": "css"
+    },
+    {
+        "color": "olive",
+        "rgb": "#808000",
+        "type": "css"
+    },
+    {
+        "color": "olivedrab",
+        "rgb": "#6B8E23",
+        "type": "css"
+    },
+    {
+        "color": "orange",
+        "rgb": "#FFA500",
+        "type": "css"
+    },
+    {
+        "color": "orangered",
+        "rgb": "#FF4500",
+        "type": "css"
+    },
+    {
+        "color": "orchid",
+        "rgb": "#DA70D6",
+        "type": "css"
+    },
+    {
+        "color": "palegoldenrod",
+        "rgb": "#EEE8AA",
+        "type": "css"
+    },
+    {
+        "color": "palegreen",
+        "rgb": "#98FB98",
+        "type": "css"
+    },
+    {
+        "color": "paleturquoise",
+        "rgb": "#AFEEEE",
+        "type": "css"
+    },
+    {
+        "color": "palevioletred",
+        "rgb": "#DB7093",
+        "type": "css"
+    },
+    {
+        "color": "papayawhip",
+        "rgb": "#FFEFD5",
+        "type": "css"
+    },
+    {
+        "color": "peachpuff",
+        "rgb": "#FFDAB9",
+        "type": "css"
+    },
+    {
+        "color": "peru",
+        "rgb": "#CD853F",
+        "type": "css"
+    },
+    {
+        "color": "pink",
+        "rgb": "#FFC0CB",
+        "type": "css"
+    },
+    {
+        "color": "plum",
+        "rgb": "#DDA0DD",
+        "type": "css"
+    },
+    {
+        "color": "powderblue",
+        "rgb": "#B0E0E6",
+        "type": "css"
+    },
+    {
+        "color": "purple",
+        "rgb": "#800080",
+        "type": "css"
+    },
+    {
+        "color": "rebeccapurple",
+        "rgb": "#663399",
+        "type": "css"
+    },
+    {
+        "color": "red",
+        "rgb": "#FF0000",
+        "type": "css"
+    },
+    {
+        "color": "rosybrown",
+        "rgb": "#BC8F8F",
+        "type": "css"
+    },
+    {
+        "color": "royalblue",
+        "rgb": "#4169E1",
+        "type": "css"
+    },
+    {
+        "color": "saddlebrown",
+        "rgb": "#8B4513",
+        "type": "css"
+    },
+    {
+        "color": "salmon",
+        "rgb": "#FA8072",
+        "type": "css"
+    },
+    {
+        "color": "sandybrown",
+        "rgb": "#F4A460",
+        "type": "css"
+    },
+    {
+        "color": "seagreen",
+        "rgb": "#2E8B57",
+        "type": "css"
+    },
+    {
+        "color": "seashell",
+        "rgb": "#FFF5EE",
+        "type": "css"
+    },
+    {
+        "color": "sienna",
+        "rgb": "#A0522D",
+        "type": "css"
+    },
+    {
+        "color": "silver",
+        "rgb": "#C0C0C0",
+        "type": "css"
+    },
+    {
+        "color": "skyblue",
+        "rgb": "#87CEEB",
+        "type": "css"
+    },
+    {
+        "color": "slateblue",
+        "rgb": "#6A5ACD",
+        "type": "css"
+    },
+    {
+        "color": "slategray",
+        "rgb": "#708090",
+        "type": "css"
+    },
+    {
+        "color": "slategrey",
+        "rgb": "#708090",
+        "type": "css"
+    },
+    {
+        "color": "snow",
+        "rgb": "#FFFAFA",
+        "type": "css"
+    },
+    {
+        "color": "springgreen",
+        "rgb": "#00FF7F",
+        "type": "css"
+    },
+    {
+        "color": "steelblue",
+        "rgb": "#4682B4",
+        "type": "css"
+    },
+    {
+        "color": "tan",
+        "rgb": "#D2B48C",
+        "type": "css"
+    },
+    {
+        "color": "teal",
+        "rgb": "#008080",
+        "type": "css"
+    },
+    {
+        "color": "thistle",
+        "rgb": "#D8BFD8",
+        "type": "css"
+    },
+    {
+        "color": "tomato",
+        "rgb": "#FF6347",
+        "type": "css"
+    },
+    {
+        "color": "turquoise",
+        "rgb": "#40E0D0",
+        "type": "css"
+    },
+    {
+        "color": "violet",
+        "rgb": "#EE82EE",
+        "type": "css"
+    },
+    {
+        "color": "wheat",
+        "rgb": "#F5DEB3",
+        "type": "css"
+    },
+    {
+        "color": "white",
+        "rgb": "#FFFFFF",
+        "type": "css"
+    },
+    {
+        "color": "whitesmoke",
+        "rgb": "#F5F5F5",
+        "type": "css"
+    },
+    {
+        "color": "yellow",
+        "rgb": "#FFFF00",
+        "type": "css"
+    },
+    {
+        "color": "yellowgreen",
+        "rgb": "#9ACD32",
+        "type": "css"
+    }
+]
