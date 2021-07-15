@@ -11,6 +11,7 @@ export default {
       changeBackground: false,
     }
   },
+  emits: ["updatemsg"],
   props: {
     color: String
   },
