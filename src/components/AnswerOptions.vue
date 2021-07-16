@@ -49,11 +49,6 @@ export default {
         this.message = `${e} 🎨`
         this.correct = true
       }
-      else
-      {
-        this.message = ''
-        this.correct = false
-      }
     },
 
     next(){
